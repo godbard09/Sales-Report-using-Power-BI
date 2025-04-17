@@ -28,6 +28,21 @@ The task involves designing and implementing a Sales Report System for Elite Ret
 
 * Designed and developed an interactive dashboard with different visualizations such as bar charts for product categories, heat maps for regional sales, and line graphs for sales trends.
 
+# Key Highlights:
+1. Total Revenue reached 126.01M, demonstrating strong business performance during the reporting period.
+
+2. Gross Profit stood at 86.89M, accounting for over 68% of total revenue, reflecting a healthy profit margin and effective pricing strategy.
+
+3. 4 million units were sold, confirming large-scale operations and high product demand.
+
+4. Germany and the Czech Republic emerged as top-performing markets in terms of unit sales, playing a crucial role in overall revenue.
+
+5. Products under 'Regular' and 'Deluxe' subcategories contributed the highest gross profit, proving to be key revenue drivers.
+
+6. Q2 recorded the most significant growth in both revenue and profit, indicating successful seasonal campaigns or business strategies.
+
+7. Monthly gross profit trends show positive growth overall, with some slowdowns in months like August, suggesting areas for strategic improvement.
+
 # Final Result
 ## Sales Report
 
